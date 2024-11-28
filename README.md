@@ -17,4 +17,6 @@ Com a ajuda de imagens
 
 
 
+![Galeria com os filmes em exibição](https://antrob.github.io/exemploPW/filmes_p.png "Filmes em exibição")
+
 
